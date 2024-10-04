@@ -862,4 +862,5 @@ body {
     height: 100px;
     object-fit: cover;
     border-radius: 50%;
+    max-width: 100%;     /* Ensures it doesn't exceed its container size */
 }
